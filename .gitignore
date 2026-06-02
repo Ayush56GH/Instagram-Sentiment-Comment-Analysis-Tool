@@ -1,0 +1,15 @@
+# Model files
+predictor.zip
+learner.pkl
+predictor.pkl
+metadata.json
+models/
+utils/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
